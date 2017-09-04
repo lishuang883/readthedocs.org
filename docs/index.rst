@@ -1,4 +1,4 @@
-hello world
+Welcome to Read The Docs
 ========================
 
 `Read the Docs`_ hosts documentation for the open source community.
